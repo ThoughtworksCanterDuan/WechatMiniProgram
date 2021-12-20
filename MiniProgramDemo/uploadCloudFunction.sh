@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e canter-duan0222-3gnmefdr59b3efe3 --n quickstartFunctions --r --project "/Users/xueqiang.duan/Desktop/WeChatDemo" --report_first --report

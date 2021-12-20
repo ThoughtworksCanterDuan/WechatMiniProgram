@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@salesforce/lwc-dev-server": "^2.11.0"
+  }
+}

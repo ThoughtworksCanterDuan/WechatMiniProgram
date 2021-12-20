@@ -1,0 +1,7 @@
+<view class="page-body">
+  {{responseData}}
+  <view>-----------------------------</view>
+  <view wx:for="{{accountList}}">
+    {{item.Id}} : {{item.Name}}
+  </view>
+</view>
